@@ -1,0 +1,60 @@
+template: "online-cv"
+skin: "orange"
+
+basic_info:
+
+    # Profile information
+    first_name: Julien
+    last_name: Galeuzzi
+    motto: Dedication, learning, caring, active
+    focus: Learning everything 
+    summary: |
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+
+      Second paragraph if required.
+
+    # Sidebar links
+    email: julien.galeuzzi@gmail.com
+    phone: +34 622 650 777
+    website: #do not add http://
+    linkedin: 
+    github: Jules-11
+    twitter:
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+
+    languages:
+      - idiom: English
+        level: Native
+
+      - idiom: French
+        level: Native
+
+      - idiom: Spanish
+        level: Advance
+
+
+    interests:
+      - item: Technologies
+
+      - item: Travelling
+
+      - item: Languages
+
+education:
+    - degree: Bachelor Degree
+      College: Compagnons-de-Cartier Quebec - Canada
+      time: 1999-2003
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+
